@@ -1,6 +1,5 @@
-### Hi I'm Vitvara 👋
+### Hi, I'm Vitvara 👋
 ---
-I'm studied at Kasetsart University in the Faculty of Software Engineering 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=vitvara&row=7&column=7&theme=darkhub)
 
@@ -18,8 +17,8 @@ I'm studied at Kasetsart University in the Faculty of Software Engineering
 <!--END_SECTION:activity-->
 ---
 ### Social :pager:
--Facebook: https://www.facebook.com/GRIDVaravithya/
--Instagram: https://www.instagram.com/vitvara_v/?hl=en
+- Facebook: https://www.facebook.com/GRIDVaravithya/
+- Instagram: https://www.instagram.com/vitvara_v/?hl=en
 <!--
 **vitvara/vitvara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
