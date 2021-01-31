@@ -1,5 +1,6 @@
 ### Hi I'm Vitvara 👋
-Software Engineer at Kasetsart University
+---
+I'm studied at Kasetsart University in the Faculty of Software Engineering 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=vitvara&row=7&column=7&theme=darkhub)
 
@@ -15,6 +16,10 @@ Software Engineer at Kasetsart University
 4. ❗️ Opened issue [#11](https://github.com/sirateek/ta-assistant-cli/issues/11) in [sirateek/ta-assistant-cli](https://github.com/sirateek/ta-assistant-cli)
 5. 🎉 Merged PR [#10](https://github.com/sirateek/ta-assistant-cli/pull/10) in [sirateek/ta-assistant-cli](https://github.com/sirateek/ta-assistant-cli)
 <!--END_SECTION:activity-->
+---
+### Social :pager:
+-Facebook: https://www.facebook.com/GRIDVaravithya/
+-Instagram: https://www.instagram.com/vitvara_v/?hl=en
 <!--
 **vitvara/vitvara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
