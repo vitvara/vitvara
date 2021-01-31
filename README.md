@@ -2,8 +2,8 @@
 ---
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=white)
 ![Centos](https://img.shields.io/badge/-CentOS-262577?style=flat&logo=CentOS&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=vitvara&row=7&column=7&theme=darkhub)
 
