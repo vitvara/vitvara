@@ -1,5 +1,5 @@
 ### Hi there 👋
-![trophy](https://github-profile-trophy.vercel.app/?username=vitvara&row=2&column=3&theme=darkhub)
+![trophy](https://github-profile-trophy.vercel.app/?username=vitvara&row=7&column=7&theme=darkhub)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitvara)
 <!--START_SECTION:activity-->
