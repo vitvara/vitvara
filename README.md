@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![trophy](https://github-profile-trophy.vercel.app/?username=vitvara&row=7&column=7&theme=darkhub)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitvara&layout=compact)](https://github.com/vitvara/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitvara&layout=compact&theme=radical)](https://github.com/vitvara/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitvara)
 <!--START_SECTION:activity-->
