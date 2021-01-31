@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=vitvara)](https://github.com/vitvara/github-profile-trophy)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitvara)
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#16](https://github.com/sirateek/ta-assistant-cli/pull/16) in [sirateek/ta-assistant-cli](https://github.com/sirateek/ta-assistant-cli)
