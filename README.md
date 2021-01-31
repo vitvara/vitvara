@@ -1,10 +1,13 @@
-### Hi there 👋
+### Hi I'm Vitvara 👋
+Software Engineer at Kasetsart University
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=vitvara&row=7&column=7&theme=darkhub)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitvara&layout=compact&theme=radical)](https://github.com/vitvara/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitvara&theme=dracula)
 
+### Recent Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#16](https://github.com/sirateek/ta-assistant-cli/pull/16) in [sirateek/ta-assistant-cli](https://github.com/sirateek/ta-assistant-cli)
 2. ❗️ Closed issue [#11](https://github.com/sirateek/ta-assistant-cli/issues/11) in [sirateek/ta-assistant-cli](https://github.com/sirateek/ta-assistant-cli)
