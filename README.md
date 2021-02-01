@@ -21,8 +21,10 @@
 <!--END_SECTION:activity-->
 ---
 ### Social :pager:
-- Facebook: https://www.facebook.com/GRIDVaravithya/
-- Instagram: https://www.instagram.com/vitvara_v/?hl=en
+- [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/GRIDVaravithya/)
+
+- [![Facebook](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/vitvara_v/?hl=en)
+
 <!--
 **vitvara/vitvara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
