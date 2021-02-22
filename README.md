@@ -14,11 +14,6 @@ Learning.
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/sirateek/ta-assistant-cli/pull/16) in [sirateek/ta-assistant-cli](https://github.com/sirateek/ta-assistant-cli)
-2. ❗️ Closed issue [#11](https://github.com/sirateek/ta-assistant-cli/issues/11) in [sirateek/ta-assistant-cli](https://github.com/sirateek/ta-assistant-cli)
-3. 💪 Opened PR [#16](https://github.com/sirateek/ta-assistant-cli/pull/16) in [sirateek/ta-assistant-cli](https://github.com/sirateek/ta-assistant-cli)
-4. ❗️ Opened issue [#11](https://github.com/sirateek/ta-assistant-cli/issues/11) in [sirateek/ta-assistant-cli](https://github.com/sirateek/ta-assistant-cli)
-5. 🎉 Merged PR [#10](https://github.com/sirateek/ta-assistant-cli/pull/10) in [sirateek/ta-assistant-cli](https://github.com/sirateek/ta-assistant-cli)
 <!--END_SECTION:activity-->
 ---
 ### Social :pager:
