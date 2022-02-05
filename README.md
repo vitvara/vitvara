@@ -1,12 +1,8 @@
+<h1 align="center"> Vitvara Varavithya</h1>
+<p align="center"> software and knowledge engineering student <p>
+  
 
-### Hi, I'm Vitvara 👋
----
-Learning.  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=white)
-![Centos](https://img.shields.io/badge/-CentOS-262577?style=flat&logo=CentOS&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-
+  
 ![trophy](https://github-profile-trophy.vercel.app/?username=vitvara&row=7&column=7&theme=darkhub)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitvara&layout=compact&theme=radical)](https://github.com/vitvara/github-readme-stats)
@@ -24,17 +20,30 @@ Learning.
 
 - [![Facebook](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/vitvara_v/?hl=en)
 
-<!--
-**vitvara/vitvara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills.
+ ---
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
+  
+![Centos](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=CentOS&logoColor=white)
+  
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
+  
 
-Here are some ideas to get you started:
+  
+Framework.
+  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
+  
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=React&logoColor=white)
+  
+![Docker](https://img.shields.io/badge/-Docker-3776AB?style=flat-square&logo=Docker&logoColor=white)
+  
+Language.
+  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+  
+![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white)
+  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=red)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C/C++](https://img.shields.io/badge/-C/C++-A8B9CC?style=flat-square&logo=C&logoColor=white)
