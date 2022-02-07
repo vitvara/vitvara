@@ -12,7 +12,7 @@
 ### Recent Activity
 <!--START_SECTION:activity-->
 #### our project
-[TA-ASSITANT](https://github.com/ta-assistant)
+[ThaiRepose](https://github.com/ThaiRepose)
 <!--END_SECTION:activity-->
 ---
 ### Social :pager:
