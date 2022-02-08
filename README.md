@@ -12,7 +12,7 @@
 ### Recent Activity
 <!--START_SECTION:activity-->
 #### our project
-[ThaiRepose](https://github.com/ThaiRepose)
+[ThaiRepose](https://thairepose.com/)
 <!--END_SECTION:activity-->
 ---
 ### Social :pager:
