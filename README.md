@@ -1,6 +1,9 @@
 <h1 align="center"> Vitvara Varavithya</h1>
 <p align="center"> software and knowledge engineering student <p>
   
+<div id="badges" align="center">
+<img src="https://komarev.com/ghpvc/?username=vitvara&style=flat-square&color=blue" alt=""/>
+</div>
 
   
 ![trophy](https://github-profile-trophy.vercel.app/?username=vitvara&row=7&column=7&theme=darkhub)
